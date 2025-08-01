@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm **Boom!**
 
-🎓 I'm a recent graduate from the College of Computing Science Technology, Khon Kaen University, Thailand.  
+🎓 I'm a recent graduate from the College of Computing Science Technology, Khon Kaen University, Thailand.
+
 💻 A passionate developer with a love for backend full-stack development — I also enjoy working on frontend and game development projects!
 
 ---
@@ -18,6 +19,11 @@
   - **Database Management, DOM, ORM**
   - **Security fundamentals**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/tawanaboom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tawanaboom/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/1ne_n_5ive/?__pwa=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/1ne_n_5ive/?__pwa=1" height="30" width="40" /></a>
+</p>
 ---
 
 ## 🔧 Tech Stack & Tools

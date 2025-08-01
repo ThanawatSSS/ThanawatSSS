@@ -77,7 +77,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanawatsss&show_icons=true&locale=en&layout=compact" alt="thanawatsss" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanawatsss&show_icons=true&locale=en" alt="thanawatsss" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanawatsss&show_icons=true&locale=en" alt="thanawatsss" /></p> -->
 
 ---
 

@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Boom]!
+# 👋 Hi there, I'm **Boom!**
 
 🎓 I'm a recent graduate from the College of Computing Science Technology, Khon Kaen University, Thailand.  
 💻 A passionate developer with a love for backend full-stack development — I also enjoy working on frontend and game development projects!

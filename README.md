@@ -1,128 +1,190 @@
-# 👋 Hi there, I'm **Boom!**
+# 👋 Hey there! I'm **Boom** 🚀
 
-🎓 I'm a recent graduate from the College of Computing Science Technology, Khon Kaen University, Thailand.
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Backend+Enthusiast;Fresh+Graduate;Always+Learning!)](https://git.io/typing-svg)
 
-💻 A passionate developer with a love for backend full-stack development — I also enjoy working on frontend and game development projects!
+🎓 **Fresh Graduate** | 💻 **Full-Stack Developer** | 🌏 **Thailand**
 
----
+*Passionate about backend development with full-stack capabilities*
 
-## 💼 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/six-onenine-692b892b3/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tawanaboom/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1ne_n_5ive/?__pwa=1)
 
-- 👨‍🎓 **New graduate** with a solid academic foundation in Computer Science.
-- 💪 Strong skills in **backend development**, but can handle the **full stack**.
-- 🧠 Knowledge in:
-  - **Object-Oriented Programming (OOP)**
-  - **Entity Relationship (ER) design**
-  - **Software Modeling & Microservices**
-  - **Human-Computer Interaction (HCI), UX/UI design**
-  - **Authentication & Authorization**
-  - **Database Management, DOM, ORM**
-  - **Security fundamentals**
-
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-  <a href="https://fb.com/https://www.facebook.com/tawanaboom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tawanaboom/" height="30" width="40" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/1ne_n_5ive/?__pwa=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/1ne_n_5ive/?__pwa=1" height="30" width="40" /></a>
-  </p>
----
-
-## 🔧 Tech Stack & Tools
-
-### 💡 Languages & Frameworks:
-- **Backend:** Node.js (Express), Laravel, Golang, Python, PHP
-- **Frontend:** HTML, CSS, React, React Native, JavaScript, TypeScript
-- **Mobile:** Kotlin (basic), React Native
-- **Database:** SQL, NoSQL (basic)
-
-### 🧰 Tools & Concepts:
-- Git & GitHub
-- REST APIs
-- MVC architecture
-- ORM (e.g., Sequelize, Prisma)
-- Microservices architecture
-- UX/UI Principles
-- CI/CD Basics
-
-<p align="left">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanawatsss&show_icons=true&locale=en&layout=compact" alt="thanawatsss" /></p>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="laravel" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
-</p>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanawatsss&show_icons=true&locale=en" alt="thanawatsss" /></p> -->
+</div>
 
 ---
 
-## 🤝 Soft Skills
+## 🚀 About Me
 
-- 🤝 Friendly & a good listener  
-- 🧘 Can focus deeply for long periods  
-- ❓ Always asks when unsure — eager to learn  
-- 👨‍🍳 Can work well in teams, thanks to real-world roles like:
-  - Chief helper
-  - Waiter
-  - Teacher assistant
+```typescript
+const boom = {
+    education: "Computer Science @ Khon Kaen University",
+    location: "Thailand 🇹🇭",
+    currentFocus: "Backend Development & System Architecture",
+    askMeAbout: ["Web Development", "APIs", "Database Design", "UX/UI"],
+    funFact: "I can cook and teach! 👨‍🍳👨‍🏫"
+};
+```
 
----
-
-## 🎯 Goals
-
-- 🚀 Seeking opportunities to grow as a **Software Developer**
-- 📈 Open to internships, junior roles, and open-source collaboration
-- 🌍 Ready to learn from real-world experiences and teams
-
----
-
-## 🎮 Hobbies & Interests
-
-- 🎮 Gaming
-- 🎵 Listening to music
-- 📺 Watching YouTube (entertainment, games, anime, code)
-- 🧑‍💻 Coding for fun
-- 🏋️‍♂️ Home exercising
-- 📖 Reading:
-  - Manga & Manhwa
-  - Books on Business, Emotion, Love & Philosophy
-  - Technical Documents (sometimes 😄)
+### 🎯 What I Do
+- 🏗️ **Backend Architecture** - Building robust, scalable server-side solutions
+- 🔄 **Full-Stack Development** - End-to-end application development
+- 🎮 **Game Development** - Creating interactive experiences
+- 🎨 **UI/UX Design** - Crafting user-centered interfaces
 
 ---
 
-## 🧠 Fun Facts
+## 🛠️ Tech Arsenal
 
-- 🍳 I can cook!
-- 👨‍🏫 I can teach!
-- ✨ I love improving and growing with others.
+<div align="center">
+
+### 💻 Languages & Frameworks
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🗄️ Databases & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### 🔧 Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
-> “Keep asking, keep learning — that's how I grow.”
+## 📊 GitHub Analytics
 
-Thanks for visiting my profile! Feel free to connect or check out my repositories. Let's build something cool together! 🚀
+<div align="center">
+  
+<!--[![Boom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanawatsss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/thanawatsss) -->
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanawatsss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/thanawatsss)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thanawatsss&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/thanawatsss)
+
+</div>
+
+---
+
+## 🎯 Core Competencies
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ Backend & Architecture
+- **API Development** (REST, GraphQL)
+- **Database Design** (SQL, NoSQL)
+- **Microservices Architecture**
+- **Authentication & Authorization**
+- **ORM/ODM** (Sequelize, Prisma)
+- **Server Optimization**
+
+</td>
+<td width="50%">
+
+### 🎨 Frontend & UX
+- **Responsive Design**
+- **Component Architecture**
+- **State Management**
+- **UI/UX Principles**
+- **Cross-platform Development**
+- **Performance Optimization**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 What Makes Me Different
+
+```yaml
+Soft Skills:
+  communication: ["Active Listener", "Clear Communicator", "Team Player"]
+  work_style: ["Deep Focus", "Detail Oriented", "Always Curious"]
+  experience: ["Teaching Assistant", "Service Industry", "Leadership Roles"]
+  mindset: "Always ask when unsure - eager to learn and grow"
+```
+
+### 🏆 Unique Strengths
+- 🤝 **Collaborative Spirit** - Real-world team experience from various roles
+- 🧘 **Deep Focus** - Can concentrate for extended periods on complex problems
+- 📚 **Continuous Learner** - Never hesitates to ask questions and learn new things
+- 🎯 **Versatile Skills** - From cooking to teaching, I bring diverse perspectives
+
+---
+
+## 🎮 Beyond Code
+
+<div align="center">
+
+| 🎵 Music Lover | 🎮 Gaming Enthusiast | 📚 Avid Reader | 🏋️‍♂️ Fitness |
+|:---:|:---:|:---:|:---:|
+| Always with headphones | Strategy & Indie games | Tech, Philosophy, Manga | Home workouts |
+
+</div>
+
+### 📖 Currently Reading
+- 📘 **Technical**: System Design & Architecture patterns
+- 🧠 **Personal Growth**: Philosophy, Psychology, Business strategy
+- 🎌 **Entertainment**: Latest manga releases and manhwa series
+
+---
+
+## 🚀 What's Next?
+
+```javascript
+const goals2025 = {
+    immediate: "Secure a Software Developer position",
+    shortTerm: "Master advanced backend architectures",
+    longTerm: "Contribute to meaningful open-source projects",
+    dream: "Build products that make people's lives better"
+};
+```
+
+### 🎯 Open To
+- 💼 **Junior Developer Positions**
+- 🔄 **Internship Opportunities** 
+- 🤝 **Open Source Collaboration**
+- 📚 **Mentorship & Learning**
+
+---
+
+<div align="center">
+
+## 💭 Philosophy
+
+> *"Keep asking, keep learning — that's how I grow."*
+
+**Let's build something amazing together!** 🚀
+
+[![Profile Views](https://komarev.com/ghpvc/?username=thanawatsss&color=blueviolet&style=flat-square)](https://github.com/thanawatsss)
+
+---
+
+*💡 Always excited to discuss new technologies, share knowledge, and collaborate on interesting projects!*
+
+</div>

@@ -4,7 +4,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Backend+Enthusiast;Fresh+Graduate;Always+Learning!)](https://git.io/typing-svg)
 
-🎓 **Fresh Graduate** | 💻 **Full-Stack Developer** | 🌏 **Thailand**
+ 💻 **Full-Stack Developer** | 🌏 **Thailand**
 
 *Passionate about backend development with full-stack capabilities*
 
